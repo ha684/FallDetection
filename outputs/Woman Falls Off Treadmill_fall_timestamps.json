@@ -1,0 +1,35 @@
+{
+    "video_path": "C:\\Users\\robot\\Downloads\\Woman Falls Off Treadmill.mp4",
+    "total_frames": 289,
+    "fps": 30.0,
+    "fall_timestamps": [
+        {
+            "time": 0.6,
+            "frame": 19,
+            "track_id": "2",
+            "confidence": 0.6704916103766643,
+            "message": "Fall detected (confidence: 0.67) - body tilt: 88.7\u00b0, horizontal instability: 4.51, lying posture: 0.55"
+        },
+        {
+            "time": 2.533333333333333,
+            "frame": 77,
+            "track_id": "1",
+            "confidence": 0.6686770328890874,
+            "message": "Fall detected (confidence: 0.67) - body tilt: 80.5\u00b0, horizontal instability: 8.23, lying posture: 0.58"
+        },
+        {
+            "time": 5.366666666666666,
+            "frame": 162,
+            "track_id": "3",
+            "confidence": 0.5046796210518956,
+            "message": "Fall detected (confidence: 0.50) - body tilt: 64.2\u00b0, horizontal instability: 0.78"
+        },
+        {
+            "time": 7.5,
+            "frame": 226,
+            "track_id": "4",
+            "confidence": 0.6147810662125236,
+            "message": "Fall detected (confidence: 0.61) - body tilt: 85.3\u00b0, horizontal instability: 1.71, lying posture: 0.95"
+        }
+    ]
+}

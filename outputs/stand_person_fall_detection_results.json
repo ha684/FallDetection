@@ -1,0 +1,14 @@
+[
+    {
+        "person_id": 0,
+        "pose_metrics": {
+            "body_angle": 8.010147431526235,
+            "vertical_distance": 147.841064453125,
+            "horizontal_alignment": 14.401824951171875,
+            "normalized_horizontal_alignment": 0.2508626083829944,
+            "shoulder_width": 57.40921313065703
+        },
+        "is_falling": false,
+        "message": "Person is in stable position"
+    }
+]
