@@ -15,16 +15,19 @@ Automatically detect when a person falls in a video using AI-driven pose estimat
 ## 🖼️ Demo Images
 
 **Fall Detected**
+
 ![Fall Detected](outputs/fall_person_fall_detection.jpg)
 
+
 **Normal Activity**
+
 ![Standing Person](outputs/stand_person_fall_detection.jpg)
 
 ---
 
 ## 🎥 Demo Video
 
-[▶️ Watch Demo Video](outputs/Woman%20Falls%20Off%20Treadmill_fall_detection.mp4)
+[▶️ Watch Demo Video](outputs/Woman%20Falls%20Off%20Treadmill_fall_detection.gif)
 
 ---
 
