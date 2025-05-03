@@ -133,7 +133,7 @@ def main():
     print("Detecting objects...")
     start = time.time()
     result = detect_objects(image, model_detection, image_processor_detection, device)
-    print("Result:", result)
+    print("detect result:", result)
     end = time.time()
     print(f"Object detection time: {end - start:.2f} seconds")
     
@@ -149,6 +149,7 @@ def main():
     print("Estimating poses...")
     start = time.time()
     image_pose_result = detect_pose(image, result['boxes'], model_pose, image_processor_pose, device)
+    print("pose result:", image_pose_result)
     end = time.time()
     print(f"Pose estimation time: {end - start:.2f} seconds")
     
